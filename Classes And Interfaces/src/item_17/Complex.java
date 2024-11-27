@@ -1,5 +1,6 @@
 package item_17;
 
+@SuppressWarnings("unused")
 public final class Complex {
 
     private final double rp;

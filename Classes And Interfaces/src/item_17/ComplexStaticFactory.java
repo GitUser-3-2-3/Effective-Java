@@ -1,5 +1,6 @@
 package item_17;
 
+@SuppressWarnings("unused")
 public class ComplexStaticFactory {
 
     private final double rp;

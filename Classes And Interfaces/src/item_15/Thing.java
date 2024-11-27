@@ -1,5 +1,6 @@
 package item_15;
 
+@SuppressWarnings("unused")
 class Thing {
     private final String NAME;
     private final String TYPE;
